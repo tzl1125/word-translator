@@ -82,4 +82,4 @@ word-docx-translator/
 
 如果您觉得这个项目对您有帮助，欢迎扫码支持！您的赞助将激励我持续维护和开发更多实用功能。
 
-![微信收款码](pictures/wechat_donation_qr.png)
+<img src="pictures/wechat_donation_qr.png" alt="赞助二维码" width="250" />
